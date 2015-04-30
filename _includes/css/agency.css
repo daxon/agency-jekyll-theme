@@ -176,7 +176,8 @@ fieldset[disabled] .btn-xl.active {
 }
 
 .navbar-default .navbar-brand {
-    font-family: "Kaushan Script","Helvetica Neue",Helvetica,Arial,cursive;
+    font-family: "Palanquin Dark","Helvetica Neue",Helvetica,Arial,cursive;
+    font-weight: 400;
     color: #{{ site.color.primary }};
 }
 
