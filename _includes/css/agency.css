@@ -10,6 +10,15 @@ body {
     color: #{{ site.color.secondary-dark }};
 }
 
+#followalong-text{
+  text-align: center;
+}
+
+#followalong-text .subheading {
+  padding-bottom: 69px;
+  padding-top: 40px;
+}
+
 .text-muted {
     color: #777;
 }
